@@ -15,3 +15,6 @@ Guess the number based on the hints given on the screen.
 
 # When you win the game
 ![Screenshot 2022-01-29 194639](https://user-images.githubusercontent.com/81677957/151664448-2da6f357-5b9b-49c8-bf5f-84ca836ca1e1.png)
+
+
+Made with the help of The Complete JavaScript Course on Udemy.
